@@ -14,5 +14,5 @@ Aplicação simples de perguntas e respostas anônimas utilizado para conhecer a
 ## Tecnologias Utilizadas
 - ``Node.js``
 - ``EJS``
-- ``Framework Express``
+- ``Express``
 - ``Banco de Dados MySQL``
